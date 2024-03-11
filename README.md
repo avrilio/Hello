@@ -1,6 +1,6 @@
 ### Hi there, My name is Damar 👋
 
-I'm 15 y/o, live in Semarang, Indonesia. Nice to meet you!
+Nice to meet you!
 
 <!--
 **DamarMaulana/DamarMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
